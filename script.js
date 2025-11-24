@@ -11,10 +11,10 @@ document.addEventListener('DOMContentLoaded', function() {
     // ============================================
 
     const studentData = {
-        name: 'Juan Carlos Pérez González',
-        code: 'U20201234',
+        name: 'Nadia Aleli Vega Reyes',
+        code: 'U22319994',
         career: 'Ingeniería de Sistemas',
-        location: 'Lima, Perú',
+        location: 'Chimbote, Perú',
         links: {
             github: 'https://github.com/usuario',
             linkedin: 'https://linkedin.com/in/usuario',
